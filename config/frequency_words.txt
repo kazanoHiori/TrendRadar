@@ -16,59 +16,28 @@ ai
 
 机器人
 
-React
 Vue
-Angular
-framework
-+release
-+update
 !tutorial
 !guide
 
-TypeScript
-JavaScript
 build tool
 performance
-optimization
 +new
 +released
 !tutorial
 
 前端
-JavaScript
-Web开发
-+更新
-+新技术
-+框架
 !教程
 !学习
 
-开发工具
-IDE
-代码编辑
-构建
-+更新
+开发
 +AI
 !使用教程
 
-浏览器
-Web标准
-性能
-兼容性
-+发布
-+新特性
-!评测对比
-
 开源
-开发者
-技术圈
-行业
-+趋势
-+生态
 !招聘
 !广告
 
-开源项目
 GitHub
 推荐
 !教程
@@ -76,79 +45,35 @@ GitHub
 
 open source
 GitHub
-project
-library
-!tutorial
-
-best practices
-patterns
-architecture
-design
-!beginner
 !tutorial
 
 数据库
 SQL
-NoSQL
-MongoDB
-PostgreSQL
-MySQL
-+性能
-+优化
 !入门教程
 
 分布式
 消息队列
 缓存
-Redis
-Kafka
 +架构
-+最佳实践
 !入门
 
 database
-vulnerability
-outage
-performance
 +issue
-+bug
-+fix
 !beginner
-
-开源数据库
-开源存储
-ClickHouse
-Elasticsearch
-TimescaleDB
-+发布
-+release
-+开源
-!广告
 
 data lake
 big data
-data warehouse
-Apache Spark
-Delta Lake
-+release
-+architecture
 !beginner
 
 Spark
 Flink
 Delta Lake
 Iceberg
-+性能
-+优化
-+最佳实践
 !学习
 
 数据湖
 数据仓库
 大数据
 数据治理
-+架构
-+实践
-+优化
 !入门教程
 
